@@ -5,7 +5,8 @@ date: 2019-04-06T17:00:46+11:00
 author: Brenda
 layout: post
 guid: http://brenda.moon.net.au/?p=908
-permalink: /2019/04/06/tweetcoding-display-tweets-embedded-in-coding-form-for-analysis/
+aliases: 
+  - /2019/04/06/tweetcoding-display-tweets-embedded-in-coding-form-for-analysis/
 categories:
   - Internet
   - Social Media
