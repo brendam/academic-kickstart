@@ -2,6 +2,7 @@
 title: 'TweetCoding: Display tweets embedded in coding form for analysis'
 date: 2019-04-06T17:00:46+11:00
 layout: post
+profile: false
 aliases: 
   - /2019/04/06/tweetcoding-display-tweets-embedded-in-coding-form-for-analysis/
 tags:
