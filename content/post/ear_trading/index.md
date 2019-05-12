@@ -2,7 +2,7 @@
 title: Ear Trading
 date: 2010-07-22T17:37:56+11:00
 layout: post
-profile: false
+profile: true
 aliases: /2010/07/22/ear-trading/
 summary: Hearing the Unseen has evolved into an iphone game and generative music machine called Ear Trading.  It is now ready for beta testing after which it will be released as on the iTunes store as a free application.
 tags:
