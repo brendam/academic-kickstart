@@ -1,19 +1,26 @@
 ---
-id: 908
 title: 'TweetCoding: Display tweets embedded in coding form for analysis'
 date: 2019-04-06T17:00:46+11:00
-author: Brenda
 layout: post
-guid: http://brenda.moon.net.au/?p=908
 aliases: 
   - /2019/04/06/tweetcoding-display-tweets-embedded-in-coding-form-for-analysis/
-categories:
+tags:
   - Internet
   - Social Media
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  # Caption (optional)
+  caption: "TweetCoding screen"
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point: "Center"
+  # Show image only in page previews?
+  preview_only: true
 ---
 TweetCoding is a tool for simple coding of tweets. It displays 5 tweets per page using Twitter’s tweet embedding to display each tweet as it looks on the Twitter website on a local web page. It needs internet access to get the tweets from Twitter, but all coding data is stored on your computer, not the internet.
 
-{{< figure library="1" src="/2017/10/tweet_coding_screenshot.png" title="Tweet Coding Screen" alt="Shows top of screen with Load New Dataset and Save Coding Data buttons and first two tweets with coding options" >}}
+{{< figure src="tweet_coding_screenshot.png" title="Tweet Coding Screen" alt="Shows top of screen with Load New Dataset and Save Coding Data buttons and first two tweets with coding options" >}}
 
 The page has form elements for coding each tweet as yes/no/not coded and a comment field for notes.
 
