@@ -11,11 +11,11 @@ publishDate: 2016-11-29T23:31:20+11:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors:
-  - McKinnon, Merryn
-  - Semmens, David
-  - Moon, Brenda
-  - Amarasekara, Inoka
-  - Bolliet, Léa
+  - Merryn McKinnon 
+  - David Semmens 
+  - Brenda Moon
+  - Inoka Amarasekara
+  - Léa Bolliet
 
 # Publication type.
 # Legend:
