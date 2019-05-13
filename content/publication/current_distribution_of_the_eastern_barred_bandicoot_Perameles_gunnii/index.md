@@ -1,23 +1,15 @@
 ---
-title: Detecting Twitter bots that share SoundCloud tracks
-aliases: 
-  - /2018/07/20/detecting-twitter-bots-that-share-soundcloud-tracks/
+title: "Current distribution of the eastern barred bandicoot, Perameles gunnii, in Victoria"
 
 # Publication date.
-date: 2018-07-20T01:01:17+11:00
+date: 1984
 
 # Schedule page publish date.
-publishDate: 2018-07-20T01:01:17+11:00
+# publishDate: 2016-11-29T23:31:20+11:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors:
-  - Axel Bruns
   - Brenda Moon
-  - Felix Victor Münch
-  - Patrik Wikström
-  - Stefan Stieglitz
-  - Florian Brachten
-  - Björn Ross
 
 # Publication type.
 # Legend:
@@ -31,30 +23,27 @@ authors:
 # 7 = Thesis
 # 8 = Patent
 publication_types:
-  - 1
+  - 4
 
 # Publication name and optional abbreviated version.
-publication: ACM Proceedings of the 9th International Conference on Social Media and Society (SMSociety '18)
-publication_short: "SMSociety '18"
+publication: Technical report series (Arthur Rylah Institute for Environmental Research) ; no. 5.
+publication_short: ""
 
 # Abstract.
-abstract: "Sharing platforms for creative content are often closely connected to general purpose social media platforms like Twitter. This also means that coordinated and automated mechanisms for promoting such content are likely to span both sites: spammers and bots operate across both platforms. This work-in-progress paper presents first results from an effort to develop activity metrics that enable the detection of Twitter bots promoting SoundCloud content."
-
+abstract: ""
 
 # Summary. An optional shortened abstract.
 summary: ""
 
 # Digital Object Identifier (DOI)
-doi: "10.1145/3217804.3217923"
+doi: ""
 
 # Is this a featured publication? (true/false)
 featured: false
 
 # Tags (optional).
 tags:
-  - Social Media
-  - Bots
-  - SoundCloud
+  - Science
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -73,7 +62,7 @@ projects: ""
 slides: ""
 
 # Links (optional).
-url_pdf: "https://eprints.qut.edu.au/120102/1/Detecting%20Twitter%20Bots%20That%20Share%20SoundCloud%20Tracks%20%28final%20with%20DOI%29.pdf"
+url_pdf: ""
 url_code: ""
 url_dataset: ""
 url_project: ""
@@ -91,5 +80,4 @@ image:
   focal_point: "Smart"
   # Show image only in page previews?
   preview_only: true
-
 ---

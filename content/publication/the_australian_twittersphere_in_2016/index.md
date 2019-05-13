@@ -1,23 +1,18 @@
 ---
-title: Detecting Twitter bots that share SoundCloud tracks
-aliases: 
-  - /2018/07/20/detecting-twitter-bots-that-share-soundcloud-tracks/
+title: "The Australian Twittersphere in 2016: Mapping the Follower/Followee Network"
 
 # Publication date.
-date: 2018-07-20T01:01:17+11:00
+date: 2017-12-13
 
 # Schedule page publish date.
-publishDate: 2018-07-20T01:01:17+11:00
+# publishDate: 2016-11-29T23:31:20+11:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors:
   - Axel Bruns
   - Brenda Moon
-  - Felix Victor Münch
-  - Patrik Wikström
-  - Stefan Stieglitz
-  - Florian Brachten
-  - Björn Ross
+  - Felix Münch
+  - Troy Sadkowsky
 
 # Publication type.
 # Legend:
@@ -31,21 +26,21 @@ authors:
 # 7 = Thesis
 # 8 = Patent
 publication_types:
-  - 1
+  - 2
 
 # Publication name and optional abbreviated version.
-publication: ACM Proceedings of the 9th International Conference on Social Media and Society (SMSociety '18)
-publication_short: "SMSociety '18"
+publication: Social Media + Society
+publication_short: ""
 
 # Abstract.
-abstract: "Sharing platforms for creative content are often closely connected to general purpose social media platforms like Twitter. This also means that coordinated and automated mechanisms for promoting such content are likely to span both sites: spammers and bots operate across both platforms. This work-in-progress paper presents first results from an effort to develop activity metrics that enable the detection of Twitter bots promoting SoundCloud content."
+abstract: "Twitter is now a key platform for public communication between a diverse range of participants, but the overall shape of the communication network it provides remains largely unknown. This article provides a detailed overview of the network structure of the Australian Twittersphere and identifies the thematic drivers of the key clusters within the network. We identify some 3.72 million Australian Twitter accounts and map the follower/followee connections between the 255,000 most connected accounts; we utilize community detection algorithms to identify the major clusters within this network and examine their account populations to identify their constitutive themes; we examine account creation dates and reconstruct a timeline for the Twitter adoption process among different communities; and we examine lifetime and recent tweeting patterns to determine the historically and currently most active clusters in the network. In combination, this offers the first rigorous and comprehensive study of the network structure of an entire national Twittersphere."
 
 
 # Summary. An optional shortened abstract.
 summary: ""
 
 # Digital Object Identifier (DOI)
-doi: "10.1145/3217804.3217923"
+doi: "10.1177/2056305117748162"
 
 # Is this a featured publication? (true/false)
 featured: false
@@ -53,8 +48,8 @@ featured: false
 # Tags (optional).
 tags:
   - Social Media
-  - Bots
-  - SoundCloud
+  - Twitter
+  - Australian Twittersphere
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -73,7 +68,7 @@ projects: ""
 slides: ""
 
 # Links (optional).
-url_pdf: "https://eprints.qut.edu.au/120102/1/Detecting%20Twitter%20Bots%20That%20Share%20SoundCloud%20Tracks%20%28final%20with%20DOI%29.pdf"
+url_pdf: "https://journals-sagepub-com.ezp01.library.qut.edu.au/doi/pdf/10.1177/2056305117748162"
 url_code: ""
 url_dataset: ""
 url_project: ""
@@ -91,5 +86,4 @@ image:
   focal_point: "Smart"
   # Show image only in page previews?
   preview_only: true
-
 ---

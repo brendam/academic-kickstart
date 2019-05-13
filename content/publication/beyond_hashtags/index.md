@@ -1,24 +1,18 @@
 ---
-title: Detecting Twitter bots that share SoundCloud tracks
-aliases: 
-  - /2018/07/20/detecting-twitter-bots-that-share-soundcloud-tracks/
+title: "Beyond Hashtags: Collecting And Analysing Conversations On Twitter"
 
 # Publication date.
-date: 2018-07-20T01:01:17+11:00
+date: 2016-10-06
 
 # Schedule page publish date.
-publishDate: 2018-07-20T01:01:17+11:00
+# publishDate: 2018-07-20T01:01:17+11:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors:
-  - Axel Bruns
   - Brenda Moon
-  - Felix Victor Münch
-  - Patrik Wikström
-  - Stefan Stieglitz
-  - Florian Brachten
-  - Björn Ross
-
+  - Nicolas Suzor
+  - Ariadna Matamoros Fernández
+  
 # Publication type.
 # Legend:
 # 0 = Uncategorized
@@ -34,18 +28,22 @@ publication_types:
   - 1
 
 # Publication name and optional abbreviated version.
-publication: ACM Proceedings of the 9th International Conference on Social Media and Society (SMSociety '18)
-publication_short: "SMSociety '18"
+publication: "AoIR: Selected Papers of Internet Research"
+publication_short: "AoIR SPIR"
 
 # Abstract.
-abstract: "Sharing platforms for creative content are often closely connected to general purpose social media platforms like Twitter. This also means that coordinated and automated mechanisms for promoting such content are likely to span both sites: spammers and bots operate across both platforms. This work-in-progress paper presents first results from an effort to develop activity metrics that enable the detection of Twitter bots promoting SoundCloud content."
+abstract: "In this paper we examine a series of techniques to enhance the collection and analysis of conversations on Twitter. We start from the position of seeking to understand how ordinary discussions about particular issues or controversies are unfolding on the social media platform.
+
+A key limitation of studies of topics on Twitter that rely on searching for a keyword or hashtag is that they may miss important sections of conversations around issues that do not match the keywords selected (Rambukkana, 2015, Bruns & Burgess, 2015). The Tracking Infrastructure for Social Media Analysis (TrISMA) (Bruns, Burgess & Banks et al., 2016) captures tweets of 2.8m Australian users on a continuing basis providing a comprehensive dataset that we can use to find reply chains which do not include the hashtag or keyword we are studying.
+
+Many existing methods of exploring Twitter data do not present conversation chains in a linked format (Bruns, 2012, Authors, 2010); we investigate how using network visualization might help researchers better understand the qualitative content and context of conversations."
 
 
 # Summary. An optional shortened abstract.
 summary: ""
 
 # Digital Object Identifier (DOI)
-doi: "10.1145/3217804.3217923"
+doi: ""
 
 # Is this a featured publication? (true/false)
 featured: false
@@ -53,8 +51,9 @@ featured: false
 # Tags (optional).
 tags:
   - Social Media
-  - Bots
-  - SoundCloud
+  - Twitter
+  - Issue Mapping
+  - Uber
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -73,7 +72,7 @@ projects: ""
 slides: ""
 
 # Links (optional).
-url_pdf: "https://eprints.qut.edu.au/120102/1/Detecting%20Twitter%20Bots%20That%20Share%20SoundCloud%20Tracks%20%28final%20with%20DOI%29.pdf"
+url_pdf: "https://eprints.qut.edu.au/101371/1/2016%20Beyond%20Hashtags-%20Collecting%20And%20Analysing%20Conversations%20On%20Twitter%20.pdf"
 url_code: ""
 url_dataset: ""
 url_project: ""

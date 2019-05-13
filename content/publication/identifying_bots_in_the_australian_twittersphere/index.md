@@ -1,24 +1,16 @@
 ---
-title: Detecting Twitter bots that share SoundCloud tracks
-aliases: 
-  - /2018/07/20/detecting-twitter-bots-that-share-soundcloud-tracks/
+title: Identifying Bots in the Australian Twittersphere
 
 # Publication date.
-date: 2018-07-20T01:01:17+11:00
+date: 2017-07-28
 
 # Schedule page publish date.
-publishDate: 2018-07-20T01:01:17+11:00
+# publishDate: 2018-07-20T01:01:17+11:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors:
-  - Axel Bruns
   - Brenda Moon
-  - Felix Victor Münch
-  - Patrik Wikström
-  - Stefan Stieglitz
-  - Florian Brachten
-  - Björn Ross
-
+  
 # Publication type.
 # Legend:
 # 0 = Uncategorized
@@ -34,18 +26,18 @@ publication_types:
   - 1
 
 # Publication name and optional abbreviated version.
-publication: ACM Proceedings of the 9th International Conference on Social Media and Society (SMSociety '18)
-publication_short: "SMSociety '18"
+publication: ACM Proceedings of the 8th International Conference on Social Media & Society (SMSociety '17)
+publication_short: "SMSociety '17"
 
 # Abstract.
-abstract: "Sharing platforms for creative content are often closely connected to general purpose social media platforms like Twitter. This also means that coordinated and automated mechanisms for promoting such content are likely to span both sites: spammers and bots operate across both platforms. This work-in-progress paper presents first results from an effort to develop activity metrics that enable the detection of Twitter bots promoting SoundCloud content."
+abstract: "Identification of bots on Twitter can be difficult, and successful approaches often use an iterative workflow, applying different techniques to identify discrete groups of bots. This paper presents first results of the application of this iterative workflow to the Australian TrISMA collection, which contains the tweets of over 4 million Twitter accounts identified as being Australian. To our knowledge, this research undertakes the first comprehensive identification of bots in the Australian Twittersphere. The identified bots are then classified by bot type before the proportion of overall account and tweet numbers they represent is determined."
 
 
 # Summary. An optional shortened abstract.
 summary: ""
 
 # Digital Object Identifier (DOI)
-doi: "10.1145/3217804.3217923"
+doi: "10.1145/3097286.3097335"
 
 # Is this a featured publication? (true/false)
 featured: false
@@ -53,8 +45,9 @@ featured: false
 # Tags (optional).
 tags:
   - Social Media
+  - Twitter
   - Bots
-  - SoundCloud
+  - Australian Twittersphere
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -73,7 +66,7 @@ projects: ""
 slides: ""
 
 # Links (optional).
-url_pdf: "https://eprints.qut.edu.au/120102/1/Detecting%20Twitter%20Bots%20That%20Share%20SoundCloud%20Tracks%20%28final%20with%20DOI%29.pdf"
+url_pdf: "https://eprints.qut.edu.au/112201/1/SMSociety17_Identifying%20Bots%20in%20the%20Australian%20Twittersphere.pdf"
 url_code: ""
 url_dataset: ""
 url_project: ""
