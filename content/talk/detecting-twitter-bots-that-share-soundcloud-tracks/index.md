@@ -1,5 +1,5 @@
 ---
-title: Detecting Twitter Bots That Share SoundCloud Tracks
+title: Detecting Twitter bots that share SoundCloud tracks
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -82,7 +82,4 @@ Work in progress paper presented at Social Media & Society 2018 in Copenhagen to
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/uThXWvwSmmELwa" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
-Paper is now available in the conference proceedings:
-
-Axel Bruns, Brenda Moon, Felix Victor Münch, Patrik Wikström, Stefan Stieglitz, Florian Brachten, and Björn Ross. 2018. Detecting Twitter Bots That Share SoundCloud Tracks. In Proceedings of the 9th International Conference on Social Media and Society (SMSociety '18). ACM, New York, NY, USA, 251-255. DOI: <a href="https://doi.org/10.1145/3217804.3217923">https://doi.org/10.1145/3217804.3217923</a>
-
+[Paper is now available in the conference proceedings]({{< ref "/publication/detecting_twitter_bots_that_share_soundcloud_tracks" >}})
