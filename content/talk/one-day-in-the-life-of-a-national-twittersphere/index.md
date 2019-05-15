@@ -23,10 +23,10 @@ event: "Social Media & Society 2016"
 event_url: https://socialmediaandsociety.org/past-conferences/2016-2/
 
 # Abstract. What's your talk about?
-abstract: "Much of the existing research into the uses of social media platforms focusses on the exceptional: key moments in politics, sports, brand management, or crisis communication. For the case of Twitter, because of the way that the Twitter API privileges certain data gathering approaches, such work is usually centred on one or more hashtags or keywords (Burgess & Bruns , 2015) . This line of inquiry has produced many useful insights into the uses of Twitter – as documented for example in the collection Hashtag Publics (Rambukkana, 2015) – bu t arguably it covers only one subset of the various uses of the platform. Routine and everyday social media practices remain comparatively underexamined as a result; f or Twitter, therefore, what results is an overrepresentation in the literature of the lou dest voices – those users who contribute actively to popular hashtags."
+abstract: "Much of the existing research into the uses of social media platforms focusses on the exceptional: key moments in politics, sports, brand management, or crisis communication. For the case of Twitter, because of the way that the Twitter API privileges certain data gathering approaches, such work is usually centred on one or more hashtags or keywords (Burgess & Bruns, 2015). This line of inquiry has produced many useful insights into the uses of Twitter – as documented for example in the collection Hashtag Publics (Rambukkana, 2015) – but arguably it covers only one subset of the various uses of the platform. Routine and everyday social media practices remain comparatively underexamined as a result; for Twitter, therefore, what results is an overrepresentation in the literature of the loudest voices – those users who contribute actively to popular hashtags."
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "Investigating routine and everyday social media practices."
 
 # Is this a featured talk? (true/false)
 featured: false
