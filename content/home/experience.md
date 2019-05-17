@@ -61,7 +61,7 @@ date_format = "Jan 2006"
   location = "Canberra"
   date_start = "2008-01-01"
   date_end = "2016-05-31"
-  description = """Research Topic: Scanning the Science Society Horizon: Using social media to monitor public discussion of science controversies.
+  description = """Research Topic: Scanning the Science Society Horizon: Using social media to monitor public discussion of science controversies."""
 
 [[experience]]
   title = "Technical Director & Co Founder"
