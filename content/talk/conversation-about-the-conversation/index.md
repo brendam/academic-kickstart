@@ -1,10 +1,9 @@
 ---
-title: 'Kiwi PyCon 2013 - Auckland, New Zealand'
+title: Conversation about “The Conversation” in the Australian Twittersphere
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2013-09-16T15:47:32+11:00
-
+date: 2017-02-23T23:04:46+11:00
 # date_end = 2019-05-14T21:21:12+10:00
 all_day: false
 
@@ -13,20 +12,14 @@ all_day: false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors:
-  - Axel Bruns
   - Brenda Moon
-  - Felix Victor Münch
-  - Patrik Wikström
-  - Stefan Stieglitz
-  - Florian Brachten
-  - Björn Ross
 
 # Location of event.
-location: "Copenhagen, Denmark"
+location: "Adelaide"
 
 # Name of event and optional event URL.
-event: "Social Media & Society 2018"
-event_url: https://socialmediaandsociety.org/past-conferences/2018-2/
+event: "Australian Science Communicators Conference"
+event_url: http://2017conf.asc.asn.au/
 
 # Abstract. What's your talk about?
 abstract: ""
@@ -40,10 +33,10 @@ featured: false
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags:
-  - Python
-  - Science
+  - Social Media
+  - Science Communication
 
-aliases: /2013/09/16/kiwipycon2013/
+aliases: /2017/02/23/conversation-about-the-conversation-in-the-australian-twittersphere/
 
 # Markdown Slides (optional).
 #   Associate this page with Markdown slides.
@@ -73,26 +66,16 @@ url_code: ""
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   # Caption (optional)
-  caption: "Kiwi Pycon 2013"
+  caption: ""
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point: "Smart"
   # Show image only in page previews?
   preview_only: true
+
 ---
+Through the publication of articles written by scholars with editorial assistance from journalists, The Conversation website has become a major platform for the amplification of scholarly content, including the sciences. Founded in Australia in March 2011, they have now expanded to editions in Africa, France, United Kingdom, United States, and a Global edition. The Conversation actively encourages the sharing of articles on social media with share buttons for Email, Twitter, Facebook and LinkedIn at the top of each article and larger Twitter and Facebook share buttons at the bottom of the article. They also encourage republishing of the articles and provide a republish button to assist with republishing with proper attribution and acknowledgement of the original article.
 
-Last week I went to Auckland for [Kiwi Pycon 2013](http://nz.pycon.org/). I arrived a couple of days early and did some sightseeing with [Angus](http://projectgus.com/), including a visit to [Tangleball](http://tumblr.tangleball.org.nz/) hackerspace in Auckland
+By examining how people share articles from The Conversation, this project provides an opportunity to better understand engagement with academic research on social media, in order to contribute towards developing new measures of the impact of the research.
 
-Had an enjoyable start to the conference at the tutorial sessions on Friday. In the morning I went to _Let's learn twisted_ run by Aurynn Shaw and then in the afternoon I helped out at _Introduction to Data Processing with Python_ run by Angus Gratton.
-
-As I found at [PyconAU 2013](/talk/pyconau-2013-hobart/), the quality of the talks over the weekend was great. They were all recorded and are being published here:
-
-* [Kiwi PyCon 2013 videos](https://pyvideo.org/events/kiwi-pycon-2013.html)
-* on the conference website [list of talks and links to the videos and slides](http://nz.pycon.org/events/talks/)
-
-Based on feedback about my pyconau talk, I redeveloped a similar talk for Kiwi PyCon. At the end of the talk, I didn't repeat peoples questions so they haven't been included in the video.
-
-{{< youtube FzCk747yjCU >}}
-
-The slides and the IPython notebooks I used are available on GitHub - https://github.com/brendam/pyconnz2013talk. I'm interested in any feedback people have about the talk or about my workflow.
-
+full abstract: http://2017conf.asc.asn.au/sessions17/conversation-about-the-conversation/

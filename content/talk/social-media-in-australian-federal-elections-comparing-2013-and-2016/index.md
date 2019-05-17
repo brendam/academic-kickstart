@@ -1,10 +1,9 @@
 ---
-title: 'Kiwi PyCon 2013 - Auckland, New Zealand'
+title: 'Social Media in Australian Federal Elections: Comparing the 2013 and 2016 Campaigns'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2013-09-16T15:47:32+11:00
-
+date: 2016-11-12T22:32:25+11:00
 # date_end = 2019-05-14T21:21:12+10:00
 all_day: false
 
@@ -15,18 +14,13 @@ all_day: false
 authors:
   - Axel Bruns
   - Brenda Moon
-  - Felix Victor Münch
-  - Patrik Wikström
-  - Stefan Stieglitz
-  - Florian Brachten
-  - Björn Ross
 
 # Location of event.
-location: "Copenhagen, Denmark"
+location: "Prague, Czech Republic"
 
 # Name of event and optional event URL.
-event: "Social Media & Society 2018"
-event_url: https://socialmediaandsociety.org/past-conferences/2018-2/
+event: "ECREA 2016"
+event_url: https://www.ecrea2016prague.eu/
 
 # Abstract. What's your talk about?
 abstract: ""
@@ -40,10 +34,10 @@ featured: false
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags:
-  - Python
-  - Science
+  - Social Media
+  - Politics
 
-aliases: /2013/09/16/kiwipycon2013/
+aliases: /2016/11/12/social-media-in-australian-federal-elections-comparing-the-2013-and-2016-campaigns/
 
 # Markdown Slides (optional).
 #   Associate this page with Markdown slides.
@@ -73,26 +67,13 @@ url_code: ""
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   # Caption (optional)
-  caption: "Kiwi Pycon 2013"
+  caption: ""
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point: "Smart"
   # Show image only in page previews?
   preview_only: true
+
 ---
 
-Last week I went to Auckland for [Kiwi Pycon 2013](http://nz.pycon.org/). I arrived a couple of days early and did some sightseeing with [Angus](http://projectgus.com/), including a visit to [Tangleball](http://tumblr.tangleball.org.nz/) hackerspace in Auckland
-
-Had an enjoyable start to the conference at the tutorial sessions on Friday. In the morning I went to _Let's learn twisted_ run by Aurynn Shaw and then in the afternoon I helped out at _Introduction to Data Processing with Python_ run by Angus Gratton.
-
-As I found at [PyconAU 2013](/talk/pyconau-2013-hobart/), the quality of the talks over the weekend was great. They were all recorded and are being published here:
-
-* [Kiwi PyCon 2013 videos](https://pyvideo.org/events/kiwi-pycon-2013.html)
-* on the conference website [list of talks and links to the videos and slides](http://nz.pycon.org/events/talks/)
-
-Based on feedback about my pyconau talk, I redeveloped a similar talk for Kiwi PyCon. At the end of the talk, I didn't repeat peoples questions so they haven't been included in the video.
-
-{{< youtube FzCk747yjCU >}}
-
-The slides and the IPython notebooks I used are available on GitHub - https://github.com/brendam/pyconnz2013talk. I'm interested in any feedback people have about the talk or about my workflow.
-
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/1ahAwwLfdRtoIL" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
