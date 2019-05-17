@@ -24,8 +24,7 @@ date_format = "Jan 2006"
   location = "Brisbane"
   date_start = "2019-01-01"
   date_end = ""
-  description = """
-  """
+  description = """"""
 
 [[experience]]
   title = "Research Associate"
@@ -34,7 +33,7 @@ date_format = "Jan 2006"
   location = "Brisbane"
   date_start = "2018-07-01"
   date_end = "2018-12-31"
-  description = """Research Associate at the QUT Digital Media Research Centre working with Professor Axel Bruns on his ARC Future Fellowship project: Understanding Intermedia Information Flows in the Australian Online Public Sphere."""
+  description = """"""
 
 [[experience]]
   title = "Manager, Data Infrastructure"
@@ -52,7 +51,7 @@ date_format = "Jan 2006"
   location = "Brisbane"
   date_start = "2015-07-01"
   date_end = "2017-12-31"
-  description = """Postdoctoral Research Fellow at the QUT Digital Media Research Centre working with Professor Axel Bruns on his ARC Future Fellowship project: Understanding Intermedia Information Flows in the Australian Online Public Sphere."""
+  description = """"""
   
 [[experience]]
   title = "PhD Candidate"
@@ -61,7 +60,7 @@ date_format = "Jan 2006"
   location = "Canberra"
   date_start = "2008-01-01"
   date_end = "2016-05-31"
-  description = """Research Topic: Scanning the Science Society Horizon: Using social media to monitor public discussion of science controversies."""
+  description = """"""
 
 [[experience]]
   title = "Technical Director & Co Founder"
@@ -70,12 +69,7 @@ date_format = "Jan 2006"
   location = "Melbourne"
   date_start = "1994-01-01"
   date_end = "2005-12-31"
-  description = """Founded The Reef Multimedia Pty Ltd with Kim Lynch and Jon Wright to explore the business opportunities of the rapidly expanding internet. The Reef Multimedia created the first corporate website in Australia for Norwich Union Financial Services Group. This was before Netscape and well before Microsoft Internet Explorer entered the picture. The site was made for the IBM web browser, OS/2 Explorer. It was claimed by Norwich to be the first corporate website in Australia. The Reef Multimedia became a successful web design company creating internet and intranet sites for a range of corporate, government and NGO clients including River Landscapes (LWA), WMC Resources, PRIA, Waterwatch and the Victorian Farmers Federation.
-
-In 2000 the WMC website won the inaugural Investor Relations Award, an international award based on research by the investment research group, Assirt and sponsored by the UK Investor magazine. The Waterwatch Victoria website won the 1996 Australian Internet Awards in both the "Community and Special Interest" and "Secondary Education" categories. It was the only site which won in two categories. The Victorian Farmers Federation website was a finalist in the "Industry Sector" category.
-
-The Reef operated as a virtual office with people working from different locations and communicating through the internet. The experience gained by doing this allowed The Reef to provide advice to clients on ways to efficiently manage remote working.
-"""
+  description = """"""
 
 [[experience]]
   title = "Manager, Information Technology Support Services"
@@ -84,7 +78,7 @@ The Reef operated as a virtual office with people working from different locatio
   location = "Melbourne"
   date_start = "1988-01-01"
   date_end = "1993-12-31"
-  description = """Developing financial information systems for the newly established Department of Conservation and Natural Resources. In 1987 Became Manager of IT Support Services, managing the hardware and software selection, user training and user support for over 2,000 microcomputers across Victoria."""
+  description = """"""
 
 [[experience]]
   title = "Computer Systems Officer"
@@ -93,6 +87,6 @@ The Reef operated as a virtual office with people working from different locatio
   location = "Melbourne"
   date_start = "1985-01-01"
   date_end = "1987-12-31"
-  description = """Developing new financial information systems."""
+  description = """"""
   
 +++
