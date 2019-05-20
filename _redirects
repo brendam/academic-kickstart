@@ -1,6 +1,0 @@
-#
-# Redirect domain aliases to primary domain
-https://brenda.moon.net.au/* https://moon.net.au/:splat 301!
-
-# Optional: Redirect default Netlify subdomain to primary domain
-https://optimistic-sinoussi-e7b611.netlify.com/* https://moon.net.au/:splat 301!
