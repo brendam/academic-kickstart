@@ -1,3 +1,4 @@
+#
 # Redirect domain aliases to primary domain
 https://brenda.moon.net.au/* https://moon.net.au/:splat 301!
 
