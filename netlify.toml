@@ -10,7 +10,7 @@
   HUGO_ENV = "production"
 
 [[redirects]]
-  from = "https://brenda.moon.net.au/*
+  from = "https://brenda.moon.net.au/*"
   to = "https://moon.net.au/:splat"
   status = 301
   force = true
