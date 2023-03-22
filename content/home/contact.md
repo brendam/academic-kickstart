@@ -1,6 +1,5 @@
 +++
 # Contact widget.
-# need to get new email in here
 widget = "contact"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
