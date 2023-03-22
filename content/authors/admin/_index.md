@@ -13,9 +13,9 @@ superuser: true
 role: Retired
 
 # Organizations/Affiliations
-organizations:
-- name: DMRC, Queensland University of Technology
-  url: "https://research.qut.edu.au/dmrc/"
+# organizations:
+# - name: DMRC, Queensland University of Technology
+#  url: "https://research.qut.edu.au/dmrc/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Managing bushland property in the Victorian central goldfields region. Retired social media researcher - my primary research interest was using interdisciplinary approaches to apply and develop digital methods.
