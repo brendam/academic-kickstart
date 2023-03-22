@@ -76,6 +76,7 @@ email: "brenda@moon.au"
 # - Researchers
 # - Visitors
 ---
+Brenda has retired and is following her earlier interests in conservation by managing some bushland in the Central Goldfields region of Victoria.
 
 Brenda was a Data Scientist in the Creative Industries Faculty (School of Communication) and the Digital Media Research Centre at QUT. Her primary research interest was using interdisciplinary approaches to apply and develop digital methods. She investigated a range of approaches including looking at patterns in timeseries data, topic analysis, network analysis, image analysis and working with large scale social media data.
 
