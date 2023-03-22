@@ -11,6 +11,11 @@
 
 [[redirects]]
   from = "https://brenda.moon.net.au/*"
-  to = "https://moon.net.au/:splat"
+  to = "https://moon.au/:splat"
+  status = 301
+  force = true
+
+  from = "https://moon.net.au/*"
+  to = "https://moon.au/:splat"
   status = 301
   force = true
