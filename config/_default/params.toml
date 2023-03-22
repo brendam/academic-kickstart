@@ -50,7 +50,7 @@ time_format = "3:04 pm"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "brenda@Moon.net.au"
+email = "brenda@moon.au"
 phone = ""
 address = ""
 
