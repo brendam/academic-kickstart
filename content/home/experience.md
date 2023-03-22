@@ -17,13 +17,23 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Retired Data Scientist"
+  company = "Self Employed"
+  company_url = "https://moon.au"
+  location = "Maryborough, Victoria"
+  date_start = "2020-10-01"
+  date_end = ""
+  description = """"""
+  
 [[experience]]
   title = "Data Scientist"
   company = "Digital Media Research Centre (DMRC) & Creative Industries, School of Communication, Queensland University of Technology"
   company_url = "https://research.qut.edu.au/dmrc/"
   location = "Brisbane"
   date_start = "2019-01-01"
-  date_end = ""
+  date_end = "2020-10-01"
   description = """"""
 
 [[experience]]
