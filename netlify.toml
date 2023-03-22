@@ -15,6 +15,7 @@
   status = 301
   force = true
 
+[[redirects]]
   from = "https://moon.net.au/*"
   to = "https://moon.au/:splat"
   status = 301
