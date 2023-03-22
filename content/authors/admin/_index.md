@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Data Scientist
+role: Retired
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://research.qut.edu.au/dmrc/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My primary research interest is using interdisciplinary approaches to apply and develop digital methods.
+bio: Managing bushland property in the Victorian central goldfields region. Retired social media researcher - my primary research interest was using interdisciplinary approaches to apply and develop digital methods.
 
 interests:
 - Social Media
@@ -48,7 +48,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:brenda@moon.net.au'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:brenda@moon.au'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/brendam
@@ -68,7 +68,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "brenda@moon.net.au"
+email: "brenda@moon.au"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -77,9 +77,9 @@ email: "brenda@moon.net.au"
 # - Visitors
 ---
 
-Brenda is a Data Scientist in the Creative Industries Faculty (School of Communication) and the Digital Media Research Centre at QUT. Her primary research interest is using interdisciplinary approaches to apply and develop digital methods. She has been investigating a range of approaches including looking at patterns in timeseries data, topic analysis, network analysis, image analysis and working with large scale social media data.
+Brenda was a Data Scientist in the Creative Industries Faculty (School of Communication) and the Digital Media Research Centre at QUT. Her primary research interest was using interdisciplinary approaches to apply and develop digital methods. She investigated a range of approaches including looking at patterns in timeseries data, topic analysis, network analysis, image analysis and working with large scale social media data.
 
-From 2015-2017 she was a Postdoctoral Research Fellow working with Professor Axel Bruns on his ARC Future Fellowship project: Understanding Intermedia Information Flows in the Australian Online Public Sphere. She is an Affiliated Researcher at the QUT Digital Media Research Centre. 
+From 2015-2017 she was a Postdoctoral Research Fellow working with Professor Axel Bruns on his ARC Future Fellowship project: Understanding Intermedia Information Flows in the Australian Online Public Sphere. She was then an Affiliated Researcher at the QUT Digital Media Research Centre from 2018-2019. 
 
 As a PhD candidate at the ANU, initially Brenda explored the use of interactive multimedia in the communication of science, later changing her focus to investigate the use of social media to monitor public discussion of science through her thesis “Scanning the Science – Society Horizon: Using social media to monitor public discussion of science”. 
 
