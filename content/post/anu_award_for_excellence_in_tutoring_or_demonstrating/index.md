@@ -25,7 +25,7 @@ Description of the award from the ANU ResearchFest website:
 
 >Much of the small group teaching done at ANU is by HDR students as tutors and demonstrators. Many tutors and demonstrators are the 'face' of the university for their students, and hence their role as teachers is vitally important. The Award for Excellence in Tutoring or Demonstrating recognises outstanding contributions to teaching and learning at ANU.
 
-I am tutor and sessional lecturer for [SCOM1001 Science and Public Awareness]("http://studyat.anu.edu.au/courses/SCOM1001;details.html) and [SCOM8012 Science Communication and the Web](http://studyat.anu.edu.au/courses/SCOM8012;details.html).
+I am tutor and sessional lecturer for [SCOM1001 Science and Public Awareness](http://studyat.anu.edu.au/courses/SCOM1001;details.html) and [SCOM8012 Science Communication and the Web](http://studyat.anu.edu.au/courses/SCOM8012;details.html).
 
 Other reports about the award:
 
@@ -34,4 +34,4 @@ Other reports about the award:
 
 My earlier message on Twitter:
 
-{{< tweet 214638436261437440 >}}
+{{< tweet user=brendam id=214638436261437440 >}}
