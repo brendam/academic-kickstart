@@ -26,6 +26,7 @@ copyright = "Licence CC by-nc-sa 4.0"
     shortname = ''
  
 
+
 ############################
 ## Advanced options below ##
 ############################
@@ -71,4 +72,3 @@ removePathAccents = true
   category = "categories"
   publication_type = "publication_types"
   author = "authors"
-
