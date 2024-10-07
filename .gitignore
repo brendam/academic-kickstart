@@ -2,3 +2,12 @@ public/
 .idea/
 
 resources/_gen/
+
+hugo.exe
+hugo.linux
+hugo.darwin
+.DS_Store
+node_modules
+dist
+tmp
+.hugo_build.lock
